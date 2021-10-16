@@ -1,0 +1,12 @@
+Gallelee's Phonebook
+
+This is a simple program to lookup phone numbers associated with names quickly and vice versa.
+#Usage details
+    To use it, simply create a text file and in the form of:
+    (lastname) (firstname) (the # of phone numbers to be stored) (the description of the number ie mobile) (and the phone number in the form of (xxx)xxx-xxxx )
+    The program must be fed a file path as a command line argument. Otherwise it will default to the file "DefaultPhoneBook.txt".
+#Current limitations
+    Be sure to exclude all parenthesis besides the ones used for the area code of the number.
+    There are also no middle initials allowed.
+
+Each class contains some logic that can be used in other projects for further versatility but have not been used here.
